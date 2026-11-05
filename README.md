@@ -29,5 +29,7 @@ University of Kerala | 2023–2026
 
 ## 🤝 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/ramseena-m-48b6a53b3/)
-- [GitHub](https://github.com/ramzinaa)
+- **LinkedIn:** [Ramseena M](https://linkedin.com/in/ramseena-m-48b6a53b3/)
+- **GitHub:** [ramzinaa](https://github.com/ramzinaa)
+
+📧 **Email:** ramseenashaju124@gmail.com
