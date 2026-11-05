@@ -1,6 +1,6 @@
 # Hi, I'm Ramseena M 👋
 
-### Aspiring Data Analyst | SQL | Power BI | Advanced Excel | Tableau
+### Aspiring Data Analyst | SQL | Power BI | Advanced Excel | Tableau | Python
 
 I'm a Computer Science graduate interested in Data Analytics and Business Intelligence. I enjoy analyzing datasets, identifying patterns, building interactive dashboards, and presenting meaningful insights.
 
@@ -8,7 +8,7 @@ I'm a Computer Science graduate interested in Data Analytics and Business Intell
 
 - **Data Analysis:** Data Cleaning, EDA, KPI Reporting
 - **Databases:** MySQL, MongoDB
-- **Visualization:** Power BI, Tableau, Advanced Excel
+- **Visualization:** Power BI, Tableau, Advanced Excel 
 - **Programming:** Python, R
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Tools:** Power Query, DAX, GitHub, Streamlit
